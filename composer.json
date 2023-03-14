@@ -1,0 +1,19 @@
+{
+    "name": "cstreitberger18/logger",
+    "description": "A library to log data.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cstreitberger18\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christoph Streitberger",
+            "email": "cstreitberger@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -4,8 +4,8 @@ A library to log data.
 
 Memo:
 
-````php
+```php
 namespace Cstreitberger18\Logger;
 require 'vendor/autoload.php';
-````
+```
 
